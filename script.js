@@ -1,6 +1,6 @@
 // Message that will pop up when you are alerted 
 
- let message = "You have recevied this messeage because you have been chosen to open an important vault"
+ let message = "You have recevied this message because you have been chosen to open an important vault. Here is the secret Combination"
 
  //values for code that will be prompted on the alert tab
  let code1 = 5 * 2
